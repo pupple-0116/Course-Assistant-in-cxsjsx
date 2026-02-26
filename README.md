@@ -1,6 +1,17 @@
-# 智能课程表助手
-这是深藏blue队2025春季学期程设课程的QT大作业，实现了一个智能课程表助手，包括课程管理、任务安排、事项提醒等功能。
+# Smart Course Assistant
 
-**如有任何问题，可以在issue中提出或联系作者邮箱**
+This is the Qt final project for the 2025 Spring Semester ***Practice of Programming in C&C++*** course, developed by team **深藏blue**. 
 
-联系我们：3255534851@qq.com
+It is an intelligent course schedule assistant designed to help students manage their academic life efficiently.
+
+## Features
+- **Course Management**: Easily add, edit, and view your weekly course schedule.
+- **Task Scheduling**: Organize your assignments, projects, and daily tasks.
+- **Event Reminders**: Get timely notifications for upcoming classes and deadlines.
+
+## Technologies Used
+- C++
+- Qt Framework
+
+## Support & Contact
+If you have any questions, encounter bugs, or have feature requests, please feel free to open an **Issue** in this repository or reach out via email.
